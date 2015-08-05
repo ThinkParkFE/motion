@@ -1,0 +1,21 @@
+{
+  "name": "tp.motion",
+  "version": "1.1.0",
+  "authors": [
+    "aidenxiong brucewan"
+  ],
+  "description": "simple way to work",
+  "main": "motion.min.js",
+  "keywords": [
+    "motion"
+  ],
+  "license": "MIT",
+  "homepage": "http://tgideas.github.io/motion/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
